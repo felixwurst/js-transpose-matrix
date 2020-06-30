@@ -1,3 +1,3 @@
-## 13. JavaScript Transpose Matrix
-**Task:** 
+# 13. JavaScript Transpose Matrix
+## Task:
 Transpose the columns and rows of an existing array and put them into a new array
